@@ -1,3 +1,7 @@
+# @Time    : 2021/04/12
+# @Author  : alexanderdutchak@gmail.com
+# @Software: PyCharm
+
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
